@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/progress_activity" android:title="Progress Bar"
+    tools:ignore="HardcodedText" />
+<item android:id="@+id/listview_menu" android:title="@string/listview"/>
+    <item android:id="@+id/product_list" android:title="@string/products"/>
+    <item android:id="@+id/listview2_menu" android:title="@string/customList"/>
+    <item android:id="@+id/recycler_view_menu" android:title="@string/recycler_view"/>
+</menu>
